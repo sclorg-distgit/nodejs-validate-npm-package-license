@@ -1,0 +1,1 @@
+# nodejs-validate-npm-package-license
